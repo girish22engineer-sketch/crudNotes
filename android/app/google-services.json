@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146906581981",
+    "project_id": "crudnotes-1ebb6",
+    "storage_bucket": "crudnotes-1ebb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146906581981:android:9424226358604060cb4434",
+        "android_client_info": {
+          "package_name": "com.example.crudnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-hdKRPOtsSUjvsYUNArJfbLwjrZGRME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
